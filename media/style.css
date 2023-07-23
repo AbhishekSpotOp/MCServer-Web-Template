@@ -51,7 +51,7 @@ body {
     font-size: 2rem;
     font-weight: 600;
     justify-content: center;
-    backdrop-filter: blur(15px);
+    backdrop-filter: blur(10px);
     align-content: center;
     padding-top: .4rem;
 }
@@ -232,7 +232,7 @@ body {
 
 .main1_actcent {
     font-weight: 800;
-    color:var(--accent1);
+    color:var(--orange-500);
 }
 
 .main1_ipcopier {
